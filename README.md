@@ -1,4 +1,4 @@
-Hi, I’m Tom Van Den Berg (He/Him), a software developer for Digital Republic Ltd.
+Hi, I’m Tom Van Den Berg (He/Him), a junior software developer for Digital Republic Ltd.
 You can reach me at: tom@digital-republic.co.uk
 
 <!---
